@@ -1,0 +1,13 @@
+{
+  "appId": "com.nonametech.app",
+  "appName": "NO NAME TECH",
+  "webDir": "www",
+  "server": {
+    "url": "https://hesban.vercel.app/",
+    "androidScheme": "https",
+    "cleartext": false,
+    "allowNavigation": ["hesban.vercel.app"],
+    "errorPath": "offline.html"
+  },
+  "backgroundColor": "#000000"
+}
